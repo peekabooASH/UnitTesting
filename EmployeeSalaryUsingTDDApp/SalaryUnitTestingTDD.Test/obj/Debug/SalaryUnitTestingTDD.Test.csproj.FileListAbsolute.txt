@@ -1,0 +1,9 @@
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\SalaryUnitTestingTDD.Test\bin\Debug\SalaryUnitTestingTDD.Test.dll
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\SalaryUnitTestingTDD.Test\bin\Debug\SalaryUnitTestingTDD.Test.pdb
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\SalaryUnitTestingTDD.Test\obj\Debug\SalaryUnitTestingTDD.Test.csprojResolveAssemblyReference.cache
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\SalaryUnitTestingTDD.Test\obj\Debug\SalaryUnitTestingTDD.Test.dll
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\SalaryUnitTestingTDD.Test\obj\Debug\SalaryUnitTestingTDD.Test.pdb
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\SalaryUnitTestingTDD.Test\bin\Debug\EmployeeSalaryUsingTddApp.exe
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\SalaryUnitTestingTDD.Test\bin\Debug\nunit.framework.dll
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\SalaryUnitTestingTDD.Test\bin\Debug\EmployeeSalaryUsingTddApp.pdb
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\SalaryUnitTestingTDD.Test\bin\Debug\nunit.framework.xml

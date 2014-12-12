@@ -1,0 +1,15 @@
+D:\BASIS Training Contents\OOP0149\24 Oct 2014_Unit Test\UnitTestApp\UnitTestApp\bin\Debug\UnitTestApp.exe.config
+D:\BASIS Training Contents\OOP0149\24 Oct 2014_Unit Test\UnitTestApp\UnitTestApp\bin\Debug\UnitTestApp.exe
+D:\BASIS Training Contents\OOP0149\24 Oct 2014_Unit Test\UnitTestApp\UnitTestApp\bin\Debug\UnitTestApp.pdb
+D:\BASIS Training Contents\OOP0149\24 Oct 2014_Unit Test\UnitTestApp\UnitTestApp\obj\Debug\UnitTestApp.csprojResolveAssemblyReference.cache
+D:\BASIS Training Contents\OOP0149\24 Oct 2014_Unit Test\UnitTestApp\UnitTestApp\obj\Debug\UnitTestApp.exe
+D:\BASIS Training Contents\OOP0149\24 Oct 2014_Unit Test\UnitTestApp\UnitTestApp\obj\Debug\UnitTestApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\24 Oct 2014_Unit Test\UnitTestApp\UnitTestApp\bin\Debug\UnitTestApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\24 Oct 2014_Unit Test\UnitTestApp\UnitTestApp\obj\Debug\UnitTestApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\24 Oct 2014_Unit Test\UnitTestApp\UnitTestApp\obj\Debug\UnitTestApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\24 Oct 2014_Unit Test\UnitTestApp\UnitTestApp\bin\Debug\UnitTestApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\24 Oct 2014_Unit Test\UnitTestApp\UnitTestApp\bin\Debug\UnitTestApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\24 Oct 2014_Unit Test\UnitTestApp\UnitTestApp\obj\Debug\UnitTestApp.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\BasisProject\UnitTesting\UnitTestApp\UnitTestApp\bin\Debug\UnitTestApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\BasisProject\UnitTesting\UnitTestApp\UnitTestApp\obj\Debug\UnitTestApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\BasisProject\UnitTesting\UnitTestApp\UnitTestApp\obj\Debug\UnitTestApp.pdb

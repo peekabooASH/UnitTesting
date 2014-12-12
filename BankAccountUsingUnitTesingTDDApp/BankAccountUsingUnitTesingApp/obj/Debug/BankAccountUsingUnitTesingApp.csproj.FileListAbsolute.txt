@@ -1,0 +1,24 @@
+c:\users\nadim\documents\visual studio 2013\Projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\bin\Debug\BankAccountUsingUnitTesingApp.exe.config
+c:\users\nadim\documents\visual studio 2013\Projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\bin\Debug\BankAccountUsingUnitTesingApp.exe
+c:\users\nadim\documents\visual studio 2013\Projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\bin\Debug\BankAccountUsingUnitTesingApp.pdb
+c:\users\nadim\documents\visual studio 2013\Projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\obj\Debug\BankAccountUsingUnitTesingApp.csprojResolveAssemblyReference.cache
+c:\users\nadim\documents\visual studio 2013\Projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\obj\Debug\BankAccountUsingUnitTesingApp.Properties.Resources.resources
+c:\users\nadim\documents\visual studio 2013\Projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\obj\Debug\BankAccountUsingUnitTesingApp.csproj.GenerateResource.Cache
+c:\users\nadim\documents\visual studio 2013\Projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\obj\Debug\BankAccountUsingUnitTesingApp.exe
+c:\users\nadim\documents\visual studio 2013\Projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\obj\Debug\BankAccountUsingUnitTesingApp.pdb
+c:\Users\Nadim\Documents\Visual Studio 2013\Projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\bin\Debug\nunit.framework.dll
+c:\Users\Nadim\Documents\Visual Studio 2013\Projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\bin\Debug\nunit.framework.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\bin\Debug\BankAccountUsingUnitTesingApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\obj\Debug\BankAccountUsingUnitTesingApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\obj\Debug\BankAccountUsingUnitTesingApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\bin\Debug\BankAccountUsingUnitTesingApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\bin\Debug\BankAccountUsingUnitTesingApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\bin\Debug\nunit.framework.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\bin\Debug\nunit.framework.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\obj\Debug\BankAccountUsingUnitTesingApp.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\obj\Debug\BankAccountUsingUnitTesingApp.Form1.resources
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\obj\Debug\BankAccountUsingUnitTesingApp.Properties.Resources.resources
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\obj\Debug\BankAccountUsingUnitTesingApp.csproj.GenerateResource.Cache
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\UnitTesting\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\bin\Debug\BankAccountUsingUnitTesingApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\UnitTesting\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\obj\Debug\BankAccountUsingUnitTesingApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\UnitTesting\BankAccountUsingUnitTesingApp\BankAccountUsingUnitTesingApp\obj\Debug\BankAccountUsingUnitTesingApp.pdb

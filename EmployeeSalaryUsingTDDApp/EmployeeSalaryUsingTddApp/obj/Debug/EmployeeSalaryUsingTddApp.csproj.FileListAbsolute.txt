@@ -1,0 +1,10 @@
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\EmployeeSalaryUsingTddApp\bin\Debug\EmployeeSalaryUsingTddApp.exe.config
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\EmployeeSalaryUsingTddApp\bin\Debug\EmployeeSalaryUsingTddApp.exe
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\EmployeeSalaryUsingTddApp\bin\Debug\EmployeeSalaryUsingTddApp.pdb
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\EmployeeSalaryUsingTddApp\obj\Debug\EmployeeSalaryUsingTddApp.csprojResolveAssemblyReference.cache
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\EmployeeSalaryUsingTddApp\obj\Debug\EmployeeSalaryUsingTddApp.Properties.Resources.resources
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\EmployeeSalaryUsingTddApp\obj\Debug\EmployeeSalaryUsingTddApp.csproj.GenerateResource.Cache
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\EmployeeSalaryUsingTddApp\obj\Debug\EmployeeSalaryUsingTddApp.exe
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\EmployeeSalaryUsingTddApp\obj\Debug\EmployeeSalaryUsingTddApp.pdb
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\EmployeeSalaryUsingTddApp\bin\Debug\nunit.framework.dll
+c:\users\nadim\documents\visual studio 2013\Projects\EmployeeSalaryUsingTddApp\EmployeeSalaryUsingTddApp\bin\Debug\nunit.framework.xml

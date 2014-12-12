@@ -1,0 +1,13 @@
+c:\Users\Nadim\Documents\Visual Studio 2013\Projects\BankAccountUsingUnitTesingApp\AccountTest.Test\bin\Debug\AccountTest.Test.dll
+c:\Users\Nadim\Documents\Visual Studio 2013\Projects\BankAccountUsingUnitTesingApp\AccountTest.Test\bin\Debug\AccountTest.Test.pdb
+c:\Users\Nadim\Documents\Visual Studio 2013\Projects\BankAccountUsingUnitTesingApp\AccountTest.Test\obj\Debug\AccountTest.Test.dll
+c:\Users\Nadim\Documents\Visual Studio 2013\Projects\BankAccountUsingUnitTesingApp\AccountTest.Test\obj\Debug\AccountTest.Test.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\AccountTest.Test\bin\Debug\AccountTest.Test.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\AccountTest.Test\bin\Debug\AccountTest.Test.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\AccountTest.Test\bin\Debug\BankAccountUsingUnitTesingApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\AccountTest.Test\bin\Debug\nunit.framework.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\AccountTest.Test\bin\Debug\BankAccountUsingUnitTesingApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\AccountTest.Test\bin\Debug\nunit.framework.xml
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\AccountTest.Test\obj\Debug\AccountTest.Test.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\AccountTest.Test\obj\Debug\AccountTest.Test.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mixed\projects\BankAccountUsingUnitTesingApp\AccountTest.Test\obj\Debug\AccountTest.Test.pdb
